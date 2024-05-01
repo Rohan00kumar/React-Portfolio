@@ -16,8 +16,6 @@ npm run dev
 + aos scroll animation
 + and more....
 
-## Startup repository link
-[Repository](https://github.com/Sridhar-C-25/React_portfolio_2_startup)
 
 ## packages:
 + [tailwind css](https://tailwindcss.com/docs/installation)
